@@ -17,3 +17,6 @@ git status
 
 git push -u origin master
 
+I'm building a login screen Right Now
+
+I create a edit text for the eamil
