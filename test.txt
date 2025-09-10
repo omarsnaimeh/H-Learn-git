@@ -1,2 +1,18 @@
 myemail omar.snaimeh@gmail.com	
 mypassword omar123
+
+git init 
+
+git add . 
+
+git commit -m "message"
+
+get log 
+  
+get branch
+
+git status
+
+git push -u origin master
+
+test test test 
